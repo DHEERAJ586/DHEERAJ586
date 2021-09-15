@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DHEERAJ
-- 👀 I’m interested in Web developement,c++,python
-- 🌱 I’m currently pursuing B>TECH IN COMPUTER SCIENCE ENGINEERING
+- 👀 I’m interested in Web developement,python
+- 🌱 I’m currently pursuing B.TECH IN COMPUTER SCIENCE ENGINEERING
 - 
 
 <!---
