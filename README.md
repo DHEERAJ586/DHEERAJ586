@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DHEERAJ
-- 👀 I’m interested in Web developement,python
+- 👀 I’m interested in Web related Technologies,python,cpp
 - 🌱 I’m currently pursuing B.TECH IN COMPUTER SCIENCE ENGINEERING
 - 
 
