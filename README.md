@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing B.TECH IN COMPUTER SCIENCE ENGINEERING
 - 
 
-<!---
-DHEERAJ586/DHEERAJ586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SKILLS 
+
+![image](https://user-images.githubusercontent.com/88535295/149726990-85c1107e-155b-4642-ad56-f540419e8805.png)
+
