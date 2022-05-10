@@ -14,6 +14,11 @@ SKILLS AND EXPERIENCE
 
 🍂 MONGO DB
 
+CPP
+
+JAVA
+
+
 
 
 
