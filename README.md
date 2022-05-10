@@ -1,18 +1,18 @@
-                                                     Hi, I'm Dheeraj 👋 
+                                                    HI I'M LVR DHEERAJ 👋 
 
-👀 I’m interested in Web related Technologies, python,cpp 
+👀 I'M INTRESTED IN FULL STACK DEVELOPEMENT
 
-🌱 I’m currently pursuing B.TECH in Computer Science And Engineering
+🌱 I'M CURRENTLY PURSUING B.TECH IN COMPUTER SCIENCE AND ENGINEERING
 
-Skills and Experience
+SKILLS AND EXPERIENCE
 
-🐍 python
+🐍 PYTHON
 
-💻 HTML, CSS, JS
+💻 HTML,CSS,JAVASCRIPT
 
-❇️ Node.js
+❇️ NODE.JS
 
-🍂MongoDB
+🍂 MONGO DB
 
 
 
